@@ -1,7 +1,7 @@
 # Fitness-analysis
 
 <p align="center">
-  <img src="OLD8ZD0.jpg" >
+  <img src="images/OLD8ZD0.jpg" >
 </p>
 
 Uma das aplicações da análise de dados que eu acho mais legal é na área de esportes.
